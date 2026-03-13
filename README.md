@@ -10,3 +10,5 @@ Some of the key challenges include:
 - Production inefficiencies: Some products may take more resources to produce but generate lower output.
 - Lack of visibility into production trends: Without analyzing the data, managers may not know when production is highest or lowest.
 - Difficulty making data-driven decisions: Without proper analysis, production managers may rely on guesswork instead of data.
+### Aim of this Project
+This project analyzes manufacturing production data using SQL to identify production patterns, measure machine performance, and highlight areas where efficiency and product quality can be improved.
