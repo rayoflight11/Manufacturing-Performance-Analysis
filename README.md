@@ -12,3 +12,21 @@ Some of the key challenges include:
 - Difficulty making data-driven decisions: Without proper analysis, production managers may rely on guesswork instead of data.
 ### Aim of this Project
 This project analyzes manufacturing production data using SQL to identify production patterns, measure machine performance, and highlight areas where efficiency and product quality can be improved.
+### Data Sources
+The dataset used for this project is a manufacturing production dataset containing records of daily production activities across different machines and products.
+The dataset contains the following columns:
+- Product_ID – Unique identifier for each product
+- Production_Date – Date of production
+- Units_Produced – Total number of units produced
+- Defective_Units – Number of defective units
+- Machine_ID – Identifier for the machine used
+- Production_Cost – Cost of production
+- Product_Category – Category of the product
+### Data Cleaning and Transformation
+- Removed duplicates
+- Corrected data types
+- Renamed columns
+- Checked for inconsistent values
+- Created new measures
+##### Data cleaning and transformation were important steps to prepare the dataset for accurate analysis and reliable insights.
+### Dax Measures Created
