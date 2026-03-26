@@ -30,3 +30,18 @@ The dataset contains the following columns:
 - Created new measures
 ##### Data cleaning and transformation were important steps to prepare the dataset for accurate analysis and reliable insights.
 ### Dax Measures Created
+Several DAX measures were created to calculate key performance metrics and to support interactive analysis and dashboard visualization in Power BI.
+- Total defects
+- Defect Rate %
+- Production Efficiency
+- Waste %
+- Overall Efficiency
+### Dashboard Design and Visuals
+The dashboard was designed in Power BI to provide a clear and interactive view of manufacturing performance and includes:
+- KPI cards : These provide a quick overview of overall manufacturing performance
+- Used bar chart and column chart for production line and shift comparison
+- Line chart- poduction trend over time
+- Ribbon chart- Defect rate ranking by production line
+- Built slicers- Enables users to interact with dashboard and explore spcific insights
+### Key Insights from Dashboard
+
