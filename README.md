@@ -44,4 +44,7 @@ The dashboard was designed in Power BI to provide a clear and interactive view o
 - Ribbon chart- Defect rate ranking by production line
 - Built slicers- Enables users to interact with dashboard and explore spcific insights
 ### Key Insights from Dashboard
+- High Defect Rates Concentrated in Specific Machines : The dashboard shows that certain machines consistently produce a higher number of defective units compared to others, This indicates possible equipment issues or maintenance gaps
+These machines may be operating below optimal performance levels
+The pattern suggests that defects are not random, but linked to specific machines
 
