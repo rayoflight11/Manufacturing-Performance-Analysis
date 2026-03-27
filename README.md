@@ -44,7 +44,16 @@ The dashboard was designed in Power BI to provide a clear and interactive view o
 - Ribbon chart- Defect rate ranking by production line
 - Built slicers- Enables users to interact with dashboard and explore spcific insights
 ### Key Insights from Dashboard
-- High Defect Rates Concentrated in Specific Machines : The dashboard shows that certain machines consistently produce a higher number of defective units compared to others, This indicates possible equipment issues or maintenance gaps
-These machines may be operating below optimal performance levels
-The pattern suggests that defects are not random, but linked to specific machines
+- High Defect Rates Concentrated in Specific Machines : The dashboard shows that certain machines consistently produce a higher number of defective units compared to others, This indicates possible equipment issues or maintenance gaps and the machines may be operating below optimal performance levels.
+- Production is Dominated by a Few Key Products : A small number of products contribute a large portion of the total production volume, these products are likely high demand. Also they have strong impact on overall manufacturing performance, Any issue affecting these products could have a major operational impact.
+- Variation in Production Output Over Time : The production trend line shows noticeable fluctuations across different dates.Some periods have high production peaks, while others drop significantly, This could be influenced by:
+   - Machine downtime
+   - Supply chain interruptions
+   - Workforce or scheduling issues
+- Defect Rate Impacts Overall Efficiency : Even when production volume is high, the defect rate reduces the number of usable products.
+High defect rates lead to:
+   - Wasted materials
+   - Increased production costs
+   - Lower overall efficiency
+- 
 
