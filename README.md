@@ -55,5 +55,29 @@ High defect rates lead to:
    - Wasted materials
    - Increased production costs
    - Lower overall efficiency
-- 
-
+- Differences in Machine Performance : The dashboard reveals that some machines produce significantly more output than others.
+##### Overall, the dashboard highlights that improving machine performance and reducing defect rates are key to optimizing manufacturing efficiency and reducing operational costs.
+### Tools Used
+- SQL (SQL Sever Mangement Studio)
+- Power BI Desktop
+- Power Query (data cleaning and transformation)
+- DAX (KPIs and calculated measures)
+### Project Deliverables
+The following outputs were produced as part of this manufacturing analysis project:
+- Cleaned Dataset
+A structured and cleaned version of the manufacturing data ready for analysis.
+- SQL Analysis Scripts
+A collection of SQL queries used to:
+    - Aggregate production data
+    - Calculate defect rates
+    - Evaluate machine performance
+- Power BI Dashboard
+An interactive dashboard that visualizes:
+    - Production trends
+    - Defect rates
+    - Machine efficiency
+    - Product performance
+- Key Insights & Recommendations
+Clear findings derived from the data, highlighting inefficiencies and areas for improvement.
+### Potential Extensions
+This project provides a strong foundation for advanced manufacturing analytics and can be extended to support predictive modeling, real-time monitoring, and data-driven decision-making.
