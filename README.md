@@ -42,11 +42,11 @@ The dashboard was designed in Power BI to provide a clear and interactive view o
 - Used bar chart and column chart for production line and shift comparison
 - Line chart- poduction trend over time
 - Ribbon chart- Defect rate ranking by production line
-- Built slicers- Enables users to interact with dashboard and explore spcific insights
+- Built slicers- Enables users to interact with dashboard and explore specific insights
 ### Key Insights from Dashboard
 - High Defect Rates Concentrated in Specific Machines : The dashboard shows that certain machines consistently produce a higher number of defective units compared to others, This indicates possible equipment issues or maintenance gaps and the machines may be operating below optimal performance levels.
 - Production is Dominated by a Few Key Products : A small number of products contribute a large portion of the total production volume, these products are likely high demand. Also they have strong impact on overall manufacturing performance, Any issue affecting these products could have a major operational impact.
-- Variation in Production Output Over Time : The production trend line shows noticeable fluctuations across different dates.Some periods have high production peaks, while others drop significantly, This could be influenced by:
+- Variation in Production Output Over Time : The production trend line shows noticeable fluctuations across different dates. Some periods have high production peaks, while others drop significantly, This could be influenced by:
    - Machine downtime
    - Supply chain interruptions
    - Workforce or scheduling issues
@@ -58,7 +58,7 @@ High defect rates lead to:
 - Differences in Machine Performance : The dashboard reveals that some machines produce significantly more output than others.
 ##### Overall, the dashboard highlights that improving machine performance and reducing defect rates are key to optimizing manufacturing efficiency and reducing operational costs.
 ### Tools Used
-- SQL (SQL Sever Mangement Studio)
+- SQL (SQL Sever Management Studio)
 - Power BI Desktop
 - Power Query (data cleaning and transformation)
 - DAX (KPIs and calculated measures)
