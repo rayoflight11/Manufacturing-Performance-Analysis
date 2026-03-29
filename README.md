@@ -1,4 +1,4 @@
-# Manufacturing-Performance-Analysis
+# Manufacturing-Performance-Analysis-Using-SQL
 ## Table of Content
 - [Project Overview](#project-overview)
 - [Business Problem](#business-problem)
