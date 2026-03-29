@@ -1,6 +1,22 @@
 # Manufacturing-Performance-Analysis
+## Table of Content
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Aim of this Project](#aim-of-this-project)
+- [Data Sources](#data-sources)
+- [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+- [Dax Measures Created](#dax-measures-created)
+- [Dashboard Desihn and Visuals](#dashboard-design-and-visuals)
+- [Key Insights from Dashboard](#key-insights-from-dashboard)
+- [Tools Used](#tools-used)
+- [Project Deliverables](#project-deliverables)
+- [Potential Extensions](#potential-extensions)
 ### Project Overview
 This project analyzes manufacturing production data to evaluate operational efficiency, identify defect patterns, and uncover insights that can help improve manufacturing performance.
+<img width="1272" height="719" alt="Screenshot 2026-03-29 190702" src="https://github.com/user-attachments/assets/82b6d2f8-0f13-4b2c-97fc-39e92e717a88" />
+
+<img width="1263" height="708" alt="Screenshot 2026-03-29 190801" src="https://github.com/user-attachments/assets/e75f4ebe-0281-4d6c-8b53-7d8e4abb8a69" />
+
 ### Business Problem
 Manufacturing companies produce large quantities of products every day using different machines. However, problems can occur during production that affect efficiency and product quality.
 The company needs to understand what is happening in their production process so they can improve performance.
